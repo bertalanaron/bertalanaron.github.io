@@ -1,5 +1,5 @@
 # About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec accumsan ligula, in pellentesque ipsum. Nulla libero ipsum, dignissim in metus vitae, tempor auctor dui. Duis imperdiet arcu ut nunc ultricies, id scelerisque massa fringilla. Donec quis justo tempor, dictum justo non, elementum purus. Duis id auctor mi. Ut a commodo ex. Ut diam elit, feugiat eu augue ut, accumsan vehicula ante.
+I'm a computer enginearing student working on my batchelor's degree at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). 
 
 <a href="files/cv.pdf" download="cv-aron-bertalan.pdf">
     <button style="background-color: #267CB9; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
@@ -7,21 +7,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec accumsan ligula,
     </button>
 </a>
 
-
 # Projects
 
-- [2D Platformer Clone](https://github.com/bertalanaron/prog1_nhz)
-    
-    Quisque nunc lacus, sodales ut posuere eget, gravida gravida arcu. Fusce luctus risus id sapien placerat lacinia. Proin volutpat arcu tincidunt sapien rutrum, quis faucibus sapien condimentum. 
 
 - [Fractal Visualizer](https://github.com/bertalanaron/gpgpu)
     
-    Quisque nunc lacus, sodales ut posuere eget, gravida gravida arcu. Fusce luctus risus id sapien placerat lacinia. Proin volutpat arcu tincidunt sapien rutrum, quis faucibus sapien condimentum. 
+    My chosen assignment for "Training Project Laboratory". With this assingment I was introduced to CUDA and paralell computing. As a side note, it was also interesting for me because I was always fascinated with the beauty of fractals. 
 
 - [Falling Sand Automata](https://github.com/bertalanaron/cellular-automata)
     
-    Quisque nunc lacus, sodales ut posuere eget, gravida gravida arcu. Fusce luctus risus id sapien placerat lacinia. Proin volutpat arcu tincidunt sapien rutrum, quis faucibus sapien condimentum. 
+    This school project is an implementation of one of the most famous cellular automata. I was mainly interested in optimizing the automaton as much as my time and abilities permitted. 
 
 - [OpenGL & SDL2 Wrapper](https://github.com/bertalanaron/3d-graphics)
     
-    Quisque nunc lacus, sodales ut posuere eget, gravida gravida arcu. Fusce luctus risus id sapien placerat lacinia. Proin volutpat arcu tincidunt sapien rutrum, quis faucibus sapien condimentum. 
+    GUI library which i'm currently working on. I wanted to learn more about OpenGL and also create a foundation on which I'm able to start new projects faster. (I like building as much from scratch as possible.)
+
+- [2D Platformer Clone](https://github.com/bertalanaron/prog1_nhz)
+    
+    A project I chose as my first semester homework. It was my first time working with C or any lower leven language so it was quite challenging, but I really enjoyed working on it and learned a lot in the process. 
